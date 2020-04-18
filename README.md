@@ -1,2 +1,37 @@
-# Data_structure
-我们的这个项目是专门为一名计算机科学与技术的在校生或应届生提供的一个技术修炼的练手和知识储备项目。 目前主要包含python在常见的数据结构算法中的使用实例，剑指offer中的题目的详细代码，欢迎大家交流和咨询。 另外本项目还将陆续提供机器学习(Machine Learning)、深度学习(Deep Learning)、NLP、OpenCV等方向在面试中常考到的知识点和代码实现，来帮助成功成为一名合格的算法工程师！！！
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/zhangzhen999/Data_structure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangzhen999/Data_structure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
